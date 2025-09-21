@@ -69,5 +69,5 @@ This project analyzes the **Women’s Dresses category** from Flipkart. The data
 
 ## ✨ Author  
 **Amrutha V.K**  
-📧 Email: [amruthavko7@gmail.com](mailto:amruthavko7@gmail.com)  
+📧 Email : amruthavk07@gmail.com
 🔗 LinkedIn: [linkedin.com/in/amruthavk](https://www.linkedin.com/in/amruthavk)  
