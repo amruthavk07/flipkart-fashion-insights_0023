@@ -1,4 +1,4 @@
-#Flipkart Women’s Dress Dataset Analysis  
+##Flipkart Women’s Dress Dataset Analysis  
 
 ## 📌 Project Overview  
 This project analyzes the **Women’s Dresses category** from Flipkart. The dataset was collected using web scraping techniques and contains information on product pricing, discounts, ratings, reviews, and brand/category trends. The goal was to study **pricing patterns, discount strategies, and customer ratings** across different brands and categories.  
